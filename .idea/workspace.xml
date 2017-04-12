@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="498f411c-47e1-4755-8a2e-ead645050889" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="tools_class.php" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/modele/tools_class.php">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="811">
+                    <caret line="439" column="0" lean-forward="false" selection-start-line="439" selection-start-column="0" selection-end-line="439" selection-end-column="0" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="chapter_class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modele/chapter_class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="216" column="5" lean-forward="true" selection-start-line="216" selection-start-column="5" selection-end-line="216" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_chapter.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue/list_chapter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="preview.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controleur/preview.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controleur/register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controleur/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="637">
+              <caret line="1765" column="5" lean-forward="true" selection-start-line="1765" selection-start-column="5" selection-end-line="1765" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit_chapter.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controleur/edit_chapter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="984">
+              <caret line="77" column="18" lean-forward="true" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_chapter.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue/new_chapter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/controleur/edit_roman.php" />
+        <option value="$PROJECT_DIR$/controleur/head.php" />
+        <option value="$PROJECT_DIR$/controleur/header.php" />
+        <option value="$PROJECT_DIR$/controleur/logout.php" />
+        <option value="$PROJECT_DIR$/controleur/modify_chapter.php" />
+        <option value="$PROJECT_DIR$/controleur/register.php" />
+        <option value="$PROJECT_DIR$/vue/head.php" />
+        <option value="$PROJECT_DIR$/modele/memberManager_class.php" />
+        <option value="$PROJECT_DIR$/controleur/login.php" />
+        <option value="$PROJECT_DIR$/controleur/login.php" />
+        <option value="$PROJECT_DIR$/controleur/validate_register.php" />
+        <option value="$PROJECT_DIR$/vue/test.php" />
+        <option value="$PROJECT_DIR$/vue/register.php" />
+        <option value="$PROJECT_DIR$/vue/register.php" />
+        <option value="$PROJECT_DIR$/vue/login.php" />
+        <option value="$PROJECT_DIR$/vue/login.php" />
+        <option value="$PROJECT_DIR$/kljkkilo.css" />
+        <option value="$PROJECT_DIR$/vue/home.php" />
+        <option value="$PROJECT_DIR$/vue/home.php" />
+        <option value="$PROJECT_DIR$/controleur/list_chapter.php" />
+        <option value="$PROJECT_DIR$/vue/menber_informations.php" />
+        <option value="$PROJECT_DIR$/assets/js/customE.js" />
+        <option value="$PROJECT_DIR$/controleur/review.php" />
+        <option value="$PROJECT_DIR$/vue/error.php" />
+        <option value="$PROJECT_DIR$/vue/errors.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/modele/commentsManager_class.php" />
+        <option value="$PROJECT_DIR$/controleur/chapter.php" />
+        <option value="$PROJECT_DIR$/vue/header.php" />
+        <option value="$PROJECT_DIR$/vue/admin.php" />
+        <option value="$PROJECT_DIR$/controleur/validate_login.php" />
+        <option value="$PROJECT_DIR$/modele/session_class.php" />
+        <option value="$PROJECT_DIR$/modele/session_class.php" />
+        <option value="$PROJECT_DIR$/vue/chapter.php" />
+        <option value="$PROJECT_DIR$/controleur/visualize.php" />
+        <option value="$PROJECT_DIR$/vue/preview.php" />
+        <option value="$PROJECT_DIR$/controleur/admin.php" />
+        <option value="$PROJECT_DIR$/controleur/member_informations.php" />
+        <option value="$PROJECT_DIR$/modele/router_class.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/modele/chapterManager_class.php" />
+        <option value="$PROJECT_DIR$/controleur/new_chapter.php" />
+        <option value="$PROJECT_DIR$/modele/chapter_class.php" />
+        <option value="$PROJECT_DIR$/vue/modify_chapter.php" />
+        <option value="$PROJECT_DIR$/controleur/home.php" />
+        <option value="$PROJECT_DIR$/vue/list_chapter.php" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/modele/tools_class.php" />
+        <option value="$PROJECT_DIR$/modele/tools_class.php" />
+        <option value="$PROJECT_DIR$/vue/new_chapter.php" />
+        <option value="$PROJECT_DIR$/controleur/edit_chapter.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2391" />
+    <option name="y" value="-9" />
+    <option name="width" value="2418" />
+    <option name="height" value="1318" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modele" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controleur" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="nav_&#9;null&#9;null&#10;updat&#9;null&#9;null&#10;modify&#9;null&#9;null&#10;updateB&#9;null&#9;null&#10;control&#9;null&#9;null&#10;chapter_title&#9;null&#9;null&#10;chapter_ti&#9;null&#9;null&#10;routes&#9;null&#9;null&#10;flip&#9;null&#9;null&#10;login_&#9;null&#9;null&#10;register&#9;null&#9;null&#10;login&#9;null&#9;null&#10;.foo&#9;null&#9;null&#10;flip-h&#9;null&#9;null&#10;bio&#9;null&#9;null&#10;flip-container&#9;null&#9;null&#10;top_&#9;null&#9;null&#10;projet3.3&#9;null&#9;null&#10;title&#9;null&#9;null&#10;.fee&#9;null&#9;null&#10;register_&#9;null&#9;null&#10;recap&#9;null&#9;null&#10;registe&#9;null&#9;null&#10;link&#9;null&#9;null&#10;show_register&#9;null&#9;null&#10;show_re&#9;null&#9;null&#10;regi&#9;null&#9;null&#10;jumbot&#9;null&#9;null&#10;jumbo&#9;null&#9;null&#10;read_&#9;null&#9;null&#10;connexion&#9;null&#9;null&#10;cmt&#9;null&#9;null&#10;connexio&#9;null&#9;null&#10;blue_&#9;null&#9;null&#10;apply_re&#9;null&#9;null&#10;recapt&#9;null&#9;null&#10;register_f&#9;null&#9;null&#10;fee&#9;null&#9;null&#10;blue&#9;null&#9;null&#10;connex&#9;null&#9;null&#10;link_&#9;null&#9;null&#10;edit_comment&#9;null&#9;null&#10;admin_li&#9;null&#9;null&#10;conn&#9;null&#9;null&#10;ban&#9;null&#9;null&#10;member_s&#9;null&#9;null&#10;member_co&#9;null&#9;null&#10;previous&#9;null&#9;null&#10;conne&#9;null&#9;null&#10;ans&#9;null&#9;null" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\blog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\blog\controleur" />
+      <recent name="C:\wamp64\www\blog\assets\css" />
+      <recent name="C:\wamp64\www\Projet3.3\assets\css" />
+      <recent name="C:\wamp64\www\Projet3.3\assets\js\jquery-ui" />
+      <recent name="C:\wamp64\www\Projet3.3\assets\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="498f411c-47e1-4755-8a2e-ead645050889" name="Default" comment="" />
+      <created>1486156453323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1486156453323</updated>
+      <workItem from="1486156454607" duration="5000" />
+      <workItem from="1486156526086" duration="4818000" />
+      <workItem from="1486161687449" duration="1765000" />
+      <workItem from="1486202198509" duration="5955000" />
+      <workItem from="1486210479323" duration="676000" />
+      <workItem from="1486211246252" duration="1707000" />
+      <workItem from="1486214120701" duration="1052000" />
+      <workItem from="1486222232911" duration="6969000" />
+      <workItem from="1486285082731" duration="23000" />
+      <workItem from="1486306288402" duration="1875000" />
+      <workItem from="1486308214442" duration="2264000" />
+      <workItem from="1486646481228" duration="8134000" />
+      <workItem from="1486715852864" duration="8624000" />
+      <workItem from="1486731751781" duration="11576000" />
+      <workItem from="1486758858392" duration="12176000" />
+      <workItem from="1486771410048" duration="1230000" />
+      <workItem from="1486819000858" duration="2272000" />
+      <workItem from="1486906804855" duration="14530000" />
+      <workItem from="1486935963685" duration="9400000" />
+      <workItem from="1486975032618" duration="10126000" />
+      <workItem from="1486987742817" duration="16688000" />
+      <workItem from="1487008733478" duration="1233000" />
+      <workItem from="1487060298063" duration="9206000" />
+      <workItem from="1487073390230" duration="11386000" />
+      <workItem from="1487346848059" duration="3317000" />
+      <workItem from="1487367799747" duration="15000" />
+      <workItem from="1487367887241" duration="950000" />
+      <workItem from="1487368875435" duration="1459000" />
+      <workItem from="1487370904967" duration="1848000" />
+      <workItem from="1487426007231" duration="9848000" />
+      <workItem from="1487436533783" duration="4364000" />
+      <workItem from="1487508754484" duration="7890000" />
+      <workItem from="1487583333960" duration="12795000" />
+      <workItem from="1487597844283" duration="4199000" />
+      <workItem from="1487610175847" duration="7374000" />
+      <workItem from="1487668021582" duration="14608000" />
+      <workItem from="1487697676902" duration="2199000" />
+      <workItem from="1487704246985" duration="2142000" />
+      <workItem from="1487769821111" duration="8266000" />
+      <workItem from="1487778256610" duration="19577000" />
+      <workItem from="1487838310273" duration="5083000" />
+      <workItem from="1487862073891" duration="10221000" />
+      <workItem from="1487887755584" duration="6568000" />
+      <workItem from="1487927778088" duration="9122000" />
+      <workItem from="1487938182115" duration="19000" />
+      <workItem from="1487938591508" duration="7371000" />
+      <workItem from="1488032226460" duration="11006000" />
+      <workItem from="1488130657141" duration="3537000" />
+      <workItem from="1488135806134" duration="8327000" />
+      <workItem from="1488147586887" duration="945000" />
+      <workItem from="1488182997319" duration="14704000" />
+      <workItem from="1488200913732" duration="9675000" />
+      <workItem from="1488220659301" duration="10464000" />
+      <workItem from="1488234781357" duration="2141000" />
+      <workItem from="1488269072782" duration="8097000" />
+      <workItem from="1488281690523" duration="2188000" />
+      <workItem from="1488535238758" duration="6162000" />
+      <workItem from="1488546208214" duration="4364000" />
+      <workItem from="1488576231749" duration="883000" />
+      <workItem from="1488577168170" duration="48000" />
+      <workItem from="1488577376671" duration="7324000" />
+      <workItem from="1488621731304" duration="5692000" />
+      <workItem from="1488629302547" duration="9374000" />
+      <workItem from="1488642939156" duration="2900000" />
+      <workItem from="1488661772380" duration="10576000" />
+      <workItem from="1488709352890" duration="4212000" />
+      <workItem from="1488718137244" duration="9512000" />
+      <workItem from="1488739067362" duration="2218000" />
+      <workItem from="1488743033175" duration="4872000" />
+      <workItem from="1488749192874" duration="242000" />
+      <workItem from="1488753903628" duration="13294000" />
+      <workItem from="1488789727533" duration="4387000" />
+      <workItem from="1488799341856" duration="24990000" />
+      <workItem from="1488962998423" duration="24357000" />
+      <workItem from="1489048298316" duration="14187000" />
+      <workItem from="1489073503837" duration="7157000" />
+      <workItem from="1489136110828" duration="27253000" />
+      <workItem from="1489184313337" duration="19450000" />
+      <workItem from="1489243465990" duration="8999000" />
+      <workItem from="1489324317544" duration="9207000" />
+      <workItem from="1489338993022" duration="17042000" />
+      <workItem from="1489356264658" duration="666000" />
+      <workItem from="1489388215314" duration="13613000" />
+      <workItem from="1489402340940" duration="1592000" />
+      <workItem from="1489409822716" duration="6307000" />
+      <workItem from="1489495363940" duration="15348000" />
+      <workItem from="1489590221414" duration="7537000" />
+      <workItem from="1489610227892" duration="1121000" />
+      <workItem from="1489651172159" duration="8025000" />
+      <workItem from="1489659532519" duration="6056000" />
+      <workItem from="1489666967108" duration="5251000" />
+      <workItem from="1489672537305" duration="4378000" />
+      <workItem from="1489691430095" duration="10459000" />
+      <workItem from="1489739736049" duration="3565000" />
+      <workItem from="1489755655848" duration="14415000" />
+      <workItem from="1489828243092" duration="20776000" />
+      <workItem from="1489862453519" duration="9282000" />
+      <workItem from="1489880826559" duration="203000" />
+      <workItem from="1489911689671" duration="9880000" />
+      <workItem from="1489921707474" duration="724000" />
+      <workItem from="1489950450662" duration="1257000" />
+      <workItem from="1489952203058" duration="7000" />
+      <workItem from="1490085104489" duration="26028000" />
+      <workItem from="1490113269097" duration="1573000" />
+      <workItem from="1490123377843" duration="10631000" />
+      <workItem from="1490170229482" duration="11072000" />
+      <workItem from="1490184779334" duration="9005000" />
+      <workItem from="1490194165896" duration="4684000" />
+      <workItem from="1490210455671" duration="10464000" />
+      <workItem from="1490253902130" duration="4637000" />
+      <workItem from="1490263967978" duration="18034000" />
+      <workItem from="1490282302757" duration="1517000" />
+      <workItem from="1490285310434" duration="7763000" />
+      <workItem from="1490293964960" duration="469000" />
+      <workItem from="1490295499947" duration="7747000" />
+      <workItem from="1490322519483" duration="6701000" />
+      <workItem from="1490345097120" duration="10337000" />
+      <workItem from="1490355591264" duration="346000" />
+      <workItem from="1490357251956" duration="2980000" />
+      <workItem from="1490454089796" duration="16894000" />
+      <workItem from="1490527572518" duration="22054000" />
+      <workItem from="1490563478602" duration="784000" />
+      <workItem from="1490598097480" duration="30963000" />
+      <workItem from="1490632740745" duration="3607000" />
+      <workItem from="1490642275246" duration="18319000" />
+      <workItem from="1490688229630" duration="10315000" />
+      <workItem from="1490699158718" duration="22000" />
+      <workItem from="1490709805463" duration="22441000" />
+      <workItem from="1490771401040" duration="12591000" />
+      <workItem from="1490785824042" duration="1512000" />
+      <workItem from="1490794926274" duration="6053000" />
+      <workItem from="1490801362802" duration="9027000" />
+      <workItem from="1490911346074" duration="1697000" />
+      <workItem from="1490948142911" duration="7906000" />
+      <workItem from="1490956118431" duration="14000" />
+      <workItem from="1490956391253" duration="37884000" />
+      <workItem from="1491119631685" duration="4726000" />
+      <workItem from="1491124624994" duration="12477000" />
+      <workItem from="1491146341096" duration="7251000" />
+      <workItem from="1491165948829" duration="2854000" />
+      <workItem from="1491221225919" duration="3508000" />
+      <workItem from="1491224798931" duration="5516000" />
+      <workItem from="1491252691011" duration="7974000" />
+      <workItem from="1491291180319" duration="12091000" />
+      <workItem from="1491305388652" duration="14517000" />
+      <workItem from="1491321958797" duration="3545000" />
+      <workItem from="1491382651113" duration="4796000" />
+      <workItem from="1491388075983" duration="765000" />
+      <workItem from="1491412870772" duration="1679000" />
+      <workItem from="1491417246420" duration="18481000" />
+      <workItem from="1491462163214" duration="3396000" />
+      <workItem from="1491465606213" duration="3154000" />
+      <workItem from="1491475961497" duration="7250000" />
+      <workItem from="1491503982362" duration="4944000" />
+      <workItem from="1491646757188" duration="9639000" />
+      <workItem from="1491657055371" duration="1903000" />
+      <workItem from="1491662610226" duration="4855000" />
+      <workItem from="1491669562068" duration="735000" />
+      <workItem from="1491670358426" duration="102000" />
+      <workItem from="1491755465153" duration="21064000" />
+      <workItem from="1491836910548" duration="5717000" />
+      <workItem from="1491843516045" duration="1098000" />
+      <workItem from="1491894670067" duration="1195000" />
+      <workItem from="1491918741710" duration="1530000" />
+      <workItem from="1491920420457" duration="654000" />
+      <workItem from="1491930551357" duration="32000" />
+      <workItem from="1491983056406" duration="1978000" />
+      <workItem from="1491985704863" duration="719000" />
+      <workItem from="1491986531919" duration="8600000" />
+      <workItem from="1491997280110" duration="4839000" />
+      <workItem from="1492024602443" duration="5475000" />
+      <workItem from="1492030493106" duration="1924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1260227000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2391" y="-9" width="2418" height="1318" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13416667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3259949" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.134375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3259949" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modele/filter_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modele/review_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modele/reviewManager_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/delete_chapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/delete_comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modele/memberManager_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="78" column="56" lean-forward="true" selection-start-line="78" selection-start-column="56" selection-end-line="78" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modele/member_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modele/commentsManager_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="224" column="25" lean-forward="false" selection-start-line="224" selection-start-column="25" selection-end-line="224" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="6" lean-forward="false" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/answer.php" />
+    <entry file="file://$PROJECT_DIR$/vue/test.php" />
+    <entry file="file://$PROJECT_DIR$/vue/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="39" column="6" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/validate_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/chapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="14" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="17" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/validate_register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/review.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="63" column="79" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/delete_novel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/edit_member.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/edit_roman.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/chapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" column="55" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="31" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/preview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modele/session_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <marker date="1491985476151" expanded="true" signature="1141:1214" ph="SELECT * FRO... members" />
+            <marker date="1491985476151" expanded="true" signature="2032:2081" ph="SELECT * FRO... members" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/list_chapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="26" lean-forward="false" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/member_informations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modele/router_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="72" column="33" lean-forward="false" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modele/chapterManager_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="149" column="9" lean-forward="false" selection-start-line="149" selection-start-column="9" selection-end-line="149" selection-end-column="9" />
+          <folding>
+            <marker date="1491997468325" expanded="true" signature="1233:1384" ph="INSERT INTO chapters... " />
+            <marker date="1491997468325" expanded="true" signature="2227:2375" ph="INSERT INTO chapters... " />
+            <marker date="1491997468325" expanded="true" signature="3013:3164" ph="INSERT INTO chapters... " />
+            <marker date="1491997468325" expanded="true" signature="4218:4339" ph="UPDATE chapt... " />
+            <marker date="1491997468325" expanded="true" signature="4954:5073" ph="UPDATE chapt... " />
+            <marker date="1491997468325" expanded="true" signature="5492:5570" ph="UPDATE chapt... " />
+            <marker date="1491997468325" expanded="true" signature="5998:6025" ph="DELETE FROM " />
+            <marker date="1491997468325" expanded="true" signature="6546:6620" ph="SELECT * FRO... chapters" />
+            <marker date="1491997468325" expanded="true" signature="7308:7368" ph="UPDATE chapt... " />
+            <marker date="1491997468325" expanded="true" signature="7957:8012" ph="SELECT * FRO... chapters" />
+            <marker date="1491997468325" expanded="true" signature="9545:9579" ph="SELECT * FRO... chapters" />
+            <marker date="1491997468325" expanded="true" signature="10726:10811" ph="SELECT * FRO... chapters" />
+            <marker date="1491997468325" expanded="true" signature="11424:11514" ph="SELECT * FRO... chapters" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="41" lean-forward="false" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modele/bddManager_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/preview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/list_chapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="1765" column="5" lean-forward="true" selection-start-line="1765" selection-start-column="5" selection-end-line="1765" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modele/chapter_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="216" column="5" lean-forward="true" selection-start-line="216" selection-start-column="5" selection-end-line="216" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modele/tools_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="811">
+          <caret line="439" column="0" lean-forward="false" selection-start-line="439" selection-start-column="0" selection-end-line="439" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/new_chapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="38" column="23" lean-forward="false" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/modify_chapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="42" column="56" lean-forward="true" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/new_chapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controleur/edit_chapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="77" column="18" lean-forward="true" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/modify_chapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="38" column="129" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="129" />
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
