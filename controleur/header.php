@@ -25,5 +25,6 @@ $tools = new tools();
 
 //wil display some admin buttons on frond-end view if administrator is logged
 $for_admin_only = $tools->displayForAdminOnly();
+
 //call to the view
 require(ROOT.'blog/vue/header.php');

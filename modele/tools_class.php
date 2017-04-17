@@ -424,6 +424,13 @@ class tools
         return $token;
     }
 
+    /**
+     * @param $preview
+     * @param $chapter_id
+     * @param $novel_id
+     * @param $novel_title
+     * @return string
+     */
     public function redirectToPreviewOrModify($preview, $chapter_id, $novel_id, $novel_title)
     {
         if($preview == null)
@@ -432,7 +439,7 @@ class tools
         }
         else
         {
-            $header = 'Location: http://localhost/blog/appercu/chapterId/'.$chapter_id.'/novelId/'.$novel_id.'/novelTitle/'.$novel_title.'';
+            $header = 'Location: http://localhost/blog/apercu/chapterId/'.$chapter_id.'/novelId/'.$novel_id.'/novelTitle/'.$novel_title.'';
         }
 
         return $header;

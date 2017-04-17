@@ -36,7 +36,7 @@
         <div class="form-group">
             <div class="col-sm-8 col-lg-2" id="control">
                 <button type="submit" class="btn btn-success" id="save_chapter">Enregistrer</button>
-                <label class="checkbox-inline"><input type="checkbox"  name="preview" value="preview">apperçu du chapitre</label>
+                <label class="checkbox-inline"><input type="checkbox"  name="preview" value="preview">aperçu du chapitre</label>
                 <a id="link_admin_home" class="btn btn-primary" href="//localhost/blog/admin" onclick="return confirm('Vous vous apprêtez à quitter le mode édition, toute modification non sauvegardée sera perdue')">Retour à l'administration</a>
             </div>
         </div>

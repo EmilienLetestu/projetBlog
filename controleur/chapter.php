@@ -30,7 +30,8 @@ $current_chapter = $read_chapter->getChapterById($chapter_id);
 $chapter_title = $current_chapter->getChapterTitle();
 $chapter_body  = $current_chapter->getChapterBody();
 $novel_id      = $current_chapter->getChapterNovelId();
-
+//get chapter release date
+$chapter_publish_on = $current_chapter->getChapterPublishOn();
 
 //create a new chapter object
 $chapter = new chapter();
@@ -40,7 +41,7 @@ $chapter->setChapterNovelTitle($novel_id);
 $novel_title = $chapter->getChapterNovelTitle();
 
 //Call to getChapterById method to create a link to the next chapter
-$next_chapter = $read_chapter->getNextChapter($chapter_id);
+$next_chapter = $read_chapter->getNextChapter($chapter_publish_on);
 foreach($next_chapter as $next)
 {
     $next_title  = $next->getChapterTitle();
@@ -61,8 +62,7 @@ $link_next = $tools->createLink($next_id,$next_title,$class="next");
 $next_icon = $tools->linkIcon($next_title);
 
 //Call to getChapterById method to create a link to the previous chapter
-$previous_chapter = $read_chapter->getPreviousChapter($chapter_id);
-
+$previous_chapter = $read_chapter->getPreviousChapter($chapter_publish_on);
 foreach($previous_chapter as $previous)
 {
     $previous_title  = $previous->getChapterTitle();
@@ -76,7 +76,7 @@ if(!$previous_title)
 }
 
 //call to createLink method to generate the appropriate navigation link
-$link_previous = $tools->createLink($previous_id,$previous_title,$class="previous");
+$link_previous = $tools->createLink($previous_id,$previous_title);
 
 //call to createLink method to generate the appropriate icon
 $previous_icon = $tools->linkIcon($previous_title);

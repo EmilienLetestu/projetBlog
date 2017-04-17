@@ -27,15 +27,14 @@ $apply_filters = $chapter_filters->getFilter();
 //call "filterForChapter"s method will define a filter query for "getAllChapter" method use below
 $apply_set_filters = $chapter_filters->applyFilter($apply_filters);
 
-
-
 //create a new chapterManager object
 $chapters = new chapterManager();
 
-
+//add an order constraint to query
+$order_by = ' ORDER BY publish_on DESC';
 
 //call "getAllChapter" method and return all the chapter from a selected  novel and apply some filters
-$chapter_list = $chapters->getAllChapter($novel_id, $apply_set_filters);
+$chapter_list = $chapters->getAllChapter($novel_id, $apply_set_filters.$order_by);
 
 
 //use a foreach loop on the array to get and display information on all the chapters

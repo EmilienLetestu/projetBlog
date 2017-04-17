@@ -175,7 +175,7 @@ class chapterManager extends bddManager
     {
 
         $bdd = $this->bdd;
-        $req = $bdd->prepare("SELECT * FROM chapters WHERE novels_id = $novel_id AND publish_on <= NOW()");
+        $req = $bdd->prepare("SELECT * FROM chapters WHERE novels_id = $novel_id AND publish_on <= NOW() order by publish_on");
         $req->execute();
 
         $chapters = array();
@@ -273,6 +273,7 @@ class chapterManager extends bddManager
                 $myChapter->setChapterLastMod($row['last_mod']);
                 $myChapter->setChapterState($row['state']);
                 $myChapter->setChapterNovelId($row['novels_id']);
+                $myChapter->setChapterPublishOn($row['publish_on']);
             }
 
         }
@@ -287,13 +288,13 @@ class chapterManager extends bddManager
 
     /**
      * This method will fetch the next published chapter in line based on a given chapter id
-     * @param $chapter_id
+     * @param $chapter_publish_on
      * @return array
      */
-    public function getNextChapter($chapter_id)
+    public function getNextChapter($chapter_publish_on)
     {
         $bdd = $this->bdd;
-        $req = $bdd->prepare("SELECT * FROM chapters WHERE id >$chapter_id AND state = 'publié' ORDER BY id LIMIT 1");
+        $req = $bdd->prepare("SELECT * FROM chapters WHERE publish_on > '$chapter_publish_on' AND state = 'publié' ORDER BY publish_on LIMIT 1");
         $req->execute();
 
         $chapters = array();
@@ -310,13 +311,13 @@ class chapterManager extends bddManager
 
     /**
      * This method will fetch previous published chapter based on a given chapter id
-     * @param $chapter_id
+     * @param $chapter_publish_on
      * @return array
      */
-    public function getPreviousChapter($chapter_id)
+    public function getPreviousChapter($chapter_publish_on)
     {
         $bdd = $this->bdd;
-        $req = $bdd->prepare("SELECT * FROM chapters WHERE id <$chapter_id AND state = 'publié' ORDER BY id DESC LIMIT 1");
+        $req = $bdd->prepare("SELECT * FROM chapters WHERE publish_on < '$chapter_publish_on' AND state = 'publié' ORDER BY publish_on DESC LIMIT 1");
         $req->execute();
 
         $chapters = array();

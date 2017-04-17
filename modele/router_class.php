@@ -126,7 +126,7 @@ class router
         {
             $page =  require(ROOT ."blog/controleur/$routes[15]");
         }
-        elseif($url[2] == "appercu")
+        elseif($url[2] == "apercu")
         {
             $page =  require(ROOT ."blog/controleur/$routes[20]");
         }
@@ -144,7 +144,6 @@ class router
         }
         else
         {
-
             $page = false;
         }
         return $page;
@@ -160,13 +159,11 @@ class router
     {
         if(isset($page) && $page == false)
         {
-            $_SESSION['flash'] = "Désolé cette page n'existe pas !";
             $redirect = require(ROOT ."blog/controleur/$routes[13]");
         }
         else
         {
             $redirect = null;
-
         }
         return $redirect;
     }

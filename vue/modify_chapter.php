@@ -36,7 +36,7 @@
         <div class="form-group">
             <div class="col-sm-8 col-lg-2" id="updateButtonsBar">
                 <button type="submit" class="btn btn-success" id="update_chapter">Enregistrer le chapitre</button>
-                <label class="checkbox-inline"><input type="checkbox"  name="preview" value="preview">apperçu du chapitre</label>
+                <label class="checkbox-inline"><input type="checkbox"  name="preview" value="preview">aperçu du chapitre</label>
                 <a id="delete-chapter" class="btn btn-danger" href="//localhost/blog/effacer-chapitre/chapterId/<?php echo $chapter_id;?>/novelId/<?php echo $novel_id_for_href;?>/novelTitle/<?php echo $display_novel_title;?>"onclick="return confirm('Vous êtes sur le point de supprimer ce chapitre')">Effacer</a>
                 <a id="link_to_chapter_list" class="btn btn-primary" href="//localhost/blog/liste-chapitres/novelId/<?php echo $novel_id_for_href;?>">Retour à la liste</a>
              </div>

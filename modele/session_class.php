@@ -102,7 +102,7 @@ class session extends bddManager
             $message = "<p class='feedback_messsage'>Bonjour ".$_SESSION['name']." vous êtes banni et allez être deconnecté !<span id='close' class='glyphicon glyphicon-remove' onclick='this.parentNode.parentNode.parentNode.removeChild(this.parentNode.parentNode); return false;'></span></p>";
             session_destroy();
         }
-        elseif(isset($_SESSION['flash']))
+        elseif(isset($_SESSION['flash']) || isset($_COOKIE['error_404']) )
         {
             $message = "<p class='feedback_messsage'>" . $_SESSION['flash'] . "<span id='close' class='glyphicon glyphicon-remove' onclick='this.parentNode.parentNode.parentNode.removeChild(this.parentNode.parentNode); return false;'></span></p>";
 
